@@ -7,5 +7,4 @@ to write a quick Python script on it.
 
 Calling python bbsg.py <PValue> <QValue>< <SValue> <number of bits for loop>
 Example:
-python bbsg.py 383 503 101355 20
-Pass all Requirements. Generating bits
+<p>python bbsg.py 383 503 101355 20</p>
